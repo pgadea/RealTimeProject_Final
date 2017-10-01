@@ -1,0 +1,8 @@
+M:\RealTimeProject\DAL\bin\Release\DAL.dll.config
+M:\RealTimeProject\DAL\bin\Release\DAL.dll
+M:\RealTimeProject\DAL\bin\Release\DAL.pdb
+M:\RealTimeProject\DAL\bin\Release\BOL.dll
+M:\RealTimeProject\DAL\bin\Release\BOL.pdb
+M:\RealTimeProject\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+M:\RealTimeProject\DAL\obj\Release\DAL.dll
+M:\RealTimeProject\DAL\obj\Release\DAL.pdb

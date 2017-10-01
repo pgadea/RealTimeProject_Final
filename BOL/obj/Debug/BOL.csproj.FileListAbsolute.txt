@@ -1,0 +1,4 @@
+M:\RealTimeProject\BOL\bin\Debug\BOL.dll
+M:\RealTimeProject\BOL\bin\Debug\BOL.pdb
+M:\RealTimeProject\BOL\obj\Debug\BOL.dll
+M:\RealTimeProject\BOL\obj\Debug\BOL.pdb
